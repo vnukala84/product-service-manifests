@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: product-service
-        image: venkat8430/product-service:37
+        image: venkat8430/product-service:38
         ports:
         - containerPort: 8080
