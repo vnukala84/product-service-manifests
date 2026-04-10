@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: venkat8430/product-service
-  tag: "4"
+  tag: "5"
 
 service:
   type: NodePort
