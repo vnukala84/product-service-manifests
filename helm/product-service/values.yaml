@@ -7,3 +7,6 @@ image:
 service:
   type: NodePort
   port: 8080
+
+
+namespace: product-service
